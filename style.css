@@ -1,6 +1,14 @@
 .cabecalho{
 background-image: url(drinks.roxo.jpeg);
-color: rgb(226, 83, 83);
+color: rgb(255, 252, 252);
 display: flex;
-padding: 24px;
+padding: 50px;
+}
+.section1 {
+    background-color: cornflowerblue
+    padding: 100px;
+}
+.section2 {
+    background-color: darkorchid
+    padding: 100px;
 }
