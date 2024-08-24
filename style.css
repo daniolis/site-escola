@@ -3,6 +3,7 @@ background-image: url(drinks.roxo.jpeg);
 color: rgb(255, 252, 252);
 display: flex;
 padding: 50px;
+background: no-repeat;
 }
 .section1 {
     background-color: cornflowerblue
