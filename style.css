@@ -6,24 +6,31 @@ padding: 24px 0;
 }
 .section1 {
     background-color: rgb(255, 172, 158)
+    padding: 50px
 }
 .section2 {
     background-color: rgb(170, 230, 197)
+    padding: 50px
 }
 .section3 {
     background-color: rgb(241, 124, 124)
+    padding: 50px
 }
 .section4 {
     background-color: rgb(243, 235, 161)
+    padding: 50px
 }
 .section5 {
     background-color: #fcc694
+    padding: 50px
 }
 .section6 {
     background-color: #afa1ef
+    padding: 50px
 }
 
 .rodape {
     background-color: rgb(161, 188, 239);
     color: aliceblue;
+    padding: 50px
 }
